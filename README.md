@@ -1,3 +1,3 @@
 # Data-Analytics-Hakethon
 
-![alt text](https://github.com/kapishash/Data-Analytics-Hakethon/blob/[branch]/4.png?raw=true)
+![Certeficate](https://github.com/kapishash/Data-Analytics-Hakethon/blob/main/4.png?raw=true)
